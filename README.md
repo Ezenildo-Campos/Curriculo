@@ -1,32 +1,23 @@
 
 
-# **José Ezenildo de Oliveira Campos**
-
-Rua Nair Monteiro Garcez, nº 148 – Vila Mariana Caçapava – SP CEP: 12286-721
-
-**Cel.:** (12) 99126-0905 / **Tel.:** (12) 99238-0117 **(Recado Falar c/ Patrícia)**
-
-E-mail: ***joseezenildo@hotmail.com***
+<div><h2>José Ezenildo de Oliveira Campos</h2></div>
+<blockquote>Dados Pessoais</blockquote>
+Rua Nair Monteiro Garcez, nº 148 – Vila Mariana Caçapava – SP CEP: 12286-721<br/>
+**Cel.:** (12) 99126-0905 / **Tel.:** (12) 99238-0117 **(Recado Falar c/ Patrícia)**<br/>
+E-mail: ***joseezenildo@hotmail.com***<br/>
+Nascido em: 03/1988<br/>
+Estado Civil: Casado
 
 [Linkedin Ezenildo Campos](https://br.linkedin.com/in/ezenildo-campos-81043b266)
 
-- **Objetivo Profissional:**
+<blockquote>Objetivo Profissional:</blockquote>
 
-Estagiar na Área Logistica
+Estagiar na Área Logística
 
-- **Informações Pessoais:**
-
-Nascido em: 03/1988
-
-Estado Civil: Casado
-
-- **Formação Acadêmica:**
-- Logística (Previsão de Término Dezembro/2025)
-
-FATEC Prof. JessenVidal
-
-- Técnico em Administração (Concluído em 2018)
-
+<blockquote>Formação Acadêmica:</blockquote><br/>
+- Logística (Previsão de Término Dezembro/2025)<br/>
+FATEC Prof. JessenVidal<br/>
+- Técnico em Administração (Concluído em 2018)<br/>
 ETEC "Machado de Assis"
 
 - **Cursos de Aperfeiçoamento:**
@@ -34,7 +25,7 @@ ETEC "Machado de Assis"
 - Informática Básica
 - Desenho Técnico Mecânico
 
-- **Experiência Profissional:**
+> - **Experiência Profissional:**
 
 __Empresa: Metal G__
 
