@@ -1,26 +1,29 @@
 
 
 <div><h2>José Ezenildo de Oliveira Campos</h2></div>
-<blockquote>Dados Pessoais</blockquote>
-Rua Nair Monteiro Garcez, nº 148 – Vila Mariana Caçapava – SP CEP: 12286-721<br/>
-**Cel.:** (12) 99126-0905 / **Tel.:** (12) 99238-0117 **(Recado Falar c/ Patrícia)**<br/>
+
+> - **Dados Pessoais**
+
+Rua Nair Monteiro Garcez, nº 148 – Vila Mariana Caçapava – SP CEP: 12286-721
+**Cel.:** (12) 99126-0905 / **Tel.:** (12) 99238-0117 **(Recado Falar c/ Patrícia)**
+
 E-mail: ***joseezenildo@hotmail.com***<br/>
 Nascido em: 03/1988<br/>
 Estado Civil: Casado
 
-[Linkedin Ezenildo Campos](https://br.linkedin.com/in/ezenildo-campos-81043b266)
+**[Linkedin Ezenildo Campos](https://br.linkedin.com/in/ezenildo-campos-81043b266)**
 
-<blockquote>Objetivo Profissional:</blockquote>
+> - **Objetivo Profissional:**
 
 Estagiar na Área Logística
 
-<blockquote>Formação Acadêmica:</blockquote><br/>
+> - **Formação Acadêmica:**
 - Logística (Previsão de Término Dezembro/2025)<br/>
 FATEC Prof. JessenVidal<br/>
 - Técnico em Administração (Concluído em 2018)<br/>
 ETEC "Machado de Assis"
 
-- **Cursos de Aperfeiçoamento:**
+> - **Cursos de Aperfeiçoamento:**
 - Excel Básico
 - Informática Básica
 - Desenho Técnico Mecânico
