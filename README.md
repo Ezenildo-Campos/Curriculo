@@ -12,6 +12,7 @@ Nascido em: 03/1988<br/>
 Estado Civil: Casado
 
 **[Linkedin Ezenildo Campos](https://br.linkedin.com/in/ezenildo-campos-81043b266)**
+**[Projeto Integrador](https://github.com/Trium-Logistics/Trium-Logistics-2)**
 
 > - **Objetivo Profissional:**
 
